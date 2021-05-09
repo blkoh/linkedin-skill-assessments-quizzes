@@ -16,8 +16,8 @@
 
 #### Q3. What happens on your hard drive when you create a subclip?
 
-- [x] Nothing, since a subclip does not create a new media file on your hard drive.
-- [ ] A pointer file is created on your hard drive.
+- [ ] Nothing, since a subclip does not create a new media file on your hard drive.
+- [x] A pointer file is created on your hard drive.
 - [ ] A new master clip is created on your hard drive and added to the project.
 - [ ] A new media file is created next to the original media.
 
@@ -68,10 +68,10 @@ E. Blur
 
 ![image](images/001.png)
 
-- [x] Select the Mask with Shape option.
+- [ ] Select the Mask with Shape option.
 - [ ] Select Responsive Design and Pin To the text layer.
 - [ ] Select Responsive Design and Pin To the Video Frame.
-- [ ] Use the Align and Transform controls.
+- [x] Use the Align and Transform controls.
 
 #### Q10. In which panel do you assemble media in order to create sequence?
 
@@ -142,25 +142,25 @@ E. Blur
 
 #### Q19. Which panel would you use to browse and import assets for maximum compatibility with Premiere Pro?
 
-- [x] Library
+- [ ] Library
 - [ ] Effects
 - [ ] Project
-- [ ] Media Browser
+- [x] Media Browser
 
 #### Q20. A transition is set to center aligned. What would be the result of dragging with the tool selected, to the right?
 
 ![image](images/004.png)
 
-- [x] The transition would slide to the right.
+- [ ] The transition would slide to the right.
 - [ ] You would extend only the right side of the transition.
-- [ ] You would perform a ripple edit and extend the duration of the first clip.
+- [x] You would perform a ripple edit and extend the duration of the first clip.
 - [ ] The transition would grow on both sides.
 
 #### Q21. Which application does NOT support Dynamic Link?
 
-- [ ] Adobe Photoshop
+- [x] Adobe Photoshop
 - [ ] Adobe Premiere Pro
-- [x] Adobe Audition
+- [ ] Adobe Audition
 - [ ] Adobe After Effects
 
 #### Q22. Which preference pane includes the Video Transition Default Duration and Audio Transition Default Duration?
@@ -181,16 +181,16 @@ E. Blur
 
 ![image](images/005.png)
 
-- [x] Hue vs. Luma
+- [ ] Hue vs. Luma
 - [ ] Saturation vs. Saturation
-- [ ] Hue vs. Saturation
+- [x] Hue vs. Saturation
 - [ ] Luma vs. Saturation
 
 #### Q25. Where is transparency data stored when compositing media?
 
 - [ ] Essential Graphics panel
-- [x] Effects panel
-- [ ] alpha channel
+- [ ] Effects panel
+- [x] alpha channel
 - [ ] assembly edit
 
 #### Q26. When part of your footage is transparent, where is the transparency information stored in the file?
